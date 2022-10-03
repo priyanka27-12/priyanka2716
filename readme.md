@@ -51,7 +51,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+  <p align="center">
   <br/>
     <a href="https://github.com/priyanka2716/github-readme-stats"><img alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka2716&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/priyanka2716/github-readme-stats"><img alt="Priyanka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka2716&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
