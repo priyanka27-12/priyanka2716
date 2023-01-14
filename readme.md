@@ -51,25 +51,18 @@
 </p>
 
 ## 📊 My Github Stats
-  <p align="center">
-  <br/>
-    <a href="https://github.com/priyanka2716/github-readme-stats"><img alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka2716&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/priyanka2716/github-readme-stats"><img alt="Priyanka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka2716&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   <br/>
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka2716&show_icons=true&locale=en&layout=compact" alt="priyanka2716" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka2716&show_icons=true&locale=en" alt="priyanka2716" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka2716&" alt="priyanka2716" /></p>
 
-<!-- ## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+<a href="https://linkedin.com/in/priyanka mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka mohanty" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanka_2712_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanka_2712_" height="30" width="40" /></a>
 </p>
+
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
