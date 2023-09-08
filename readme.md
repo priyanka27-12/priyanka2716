@@ -7,7 +7,7 @@
 ## About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-- A third year CSE student at **IIIT BBSR.**
+- A fourth year CSE student at **IIIT BBSR.**
 
 -  I’m currently learning **Data Structures and Algorithms.**
 
